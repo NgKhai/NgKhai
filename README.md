@@ -6,7 +6,7 @@
 
 ## About Me 🤔
 
-Hey! I'm **Khải**, a software developer who gets genuinely excited about turning ideas into reality through code. When I'm not debugging at 2 AM (we've all been there), you'll find me:
+Hey! I'm **Nguyễn Khải**, a software developer who gets genuinely excited about turning ideas into reality through code. When I'm not debugging at 2 AM (we've all been there), you'll find me:
 
 - 🔭 Building **mobile apps** that people actually want to use
 - 🎮 Creating **games** because who doesn't love a good challenge?
