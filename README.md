@@ -64,7 +64,7 @@ Remember waiting forever for the bus? Yeah, me too. So I built this:
   <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" alt="Bus GIF">
 </div>
 
-### 🎮 Owlet Adventure (My First Game Baby)
+### 🎮 Owlet Adventure (My First Game)
 [🎲 Play it here!](https://ngkhai.itch.io/demo-owlet-adventure)
 
 A 2D platformer that took me way longer than expected (but was totally worth it):
