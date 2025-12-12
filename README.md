@@ -43,9 +43,6 @@ Hey! I'm **Nguyễn Khải**, a software developer who gets genuinely excited ab
 
 ## Cool Stuff I've Built 🚀
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=NgKhai&show_icons=true&theme=tokyonight&hide_border=true" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgKhai&layout=compact&theme=tokyonight&hide_border=true" />
-
 <div align="center">
   <br clear="both" />
 </div>
